@@ -20,5 +20,5 @@ This project automates the process of OCR (Optical Character Recognition). When 
 - **Language**: Python 3.12 (Boto3 SDK)
 
 ## 📸 Screenshots
- []
+ [https://github.com/cit-24-01-0532-cyber/AWS-Serverless-Text-Extractor/blob/main/Screenshot%202026-05-10%20090457.png]
  []
