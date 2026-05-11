@@ -21,4 +21,4 @@ This project automates the process of OCR (Optical Character Recognition). When 
 
 ## 📸 Screenshots
  [https://github.com/cit-24-01-0532-cyber/AWS-Serverless-Text-Extractor/blob/main/Screenshot%202026-05-10%20090457.png]
- []
+ [https://github.com/cit-24-01-0532-cyber/AWS-Serverless-Text-Extractor/blob/main/Screenshot%202026-05-10%20090509.png]
