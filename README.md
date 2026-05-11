@@ -20,5 +20,5 @@ This project automates the process of OCR (Optical Character Recognition). When 
 - **Language**: Python 3.12 (Boto3 SDK)
 
 ## 📸 Screenshots
-- **Input Image vs Output Text**: [Add your screenshot here]
-- **Lambda Success Logs**: [Add your screenshot here]
+ []
+ []
